@@ -62,7 +62,7 @@ _Alphabetically sorted by Slack nickname_
 | @Viet Duc  | https://www.github.com/YourGithubHandle/YourRepo |
 | @Vivyanne | https://www.github.com/YourGithubHandle/YourRepo |
 | @Yagmur | https://www.github.com/YourGithubHandle/YourRepo |
-| @Yasemin | https://www.github.com/YourGithubHandle/YourRepo |
+| @Yasemin | https://www.github.com/yaseminertan |
 | @Zainab | https://github.com/oladipupozainab |
 | @Your Name | https://www.github.com/YourGithubHandle/YourRepo |
 
